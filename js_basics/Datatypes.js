@@ -10,3 +10,30 @@ console.log(3 + 3)
 
 console.log(typeof undefined)
 console.log(typeof null)
+// === is used for checking all are same datatypes or not..
+// call by data and call by references 
+// primitive datatypes
+
+// string, number, boolean, null, undeffined, symbol, bigInt
+
+// non primitive
+// array, objects, functions
+// master objects for learn javascript
+
+// object creation
+let myObj={
+    name: "arunava",
+    age: 23,
+}
+
+const myFunction =function(){
+    console.log("Hello World");
+    
+}
+
+
+
+// -----------------------------------
+
+// memory two types stack(primitive) and heap(non-primitive)
+ 
